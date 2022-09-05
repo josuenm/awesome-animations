@@ -1,6 +1,4 @@
 # Awesome Animations
-<hr />
-<br />
 
 ## Xbox animation
 
