@@ -2,4 +2,4 @@
 
 ## Xbox animation
 
-Visit: https://github.io/josuenm/awesome-animations/xbox
+Visit: https://josuenm.github.io/awesome-animations/xbox
